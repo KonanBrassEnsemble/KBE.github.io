@@ -5,13 +5,14 @@ h1{
 	color:#FAF0E6;
 	font-size: 200px;
 }
-li{
+.furuno a{
 	list-style: none;
-	font-size:45px;
+	font-size:50px;
 	color:#660033;
-	float: right;
-	padding-right: calc(15vh - 10px);
-  position: center;
+  padding:5px calc(5vh - 10px);
+
+}
+
 }
 .selected{
   font-size: 22px;
